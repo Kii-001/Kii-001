@@ -4,19 +4,7 @@ Selamat datang di profil GitHub saya! Seorang developer dengan semangat tinggi l
 
 ![Header Animation](https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif)
 
-## 📈 Mission Statistics
-
-<div align="center">
-
-<!-- Animated Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=fathurrizky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true&custom_title=Mission%20Statistics&hide=prs,issues&animate=true" alt="Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fathurrizky&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&fire=FF0000&ring=58A6FF&currStreakLabel=58A6FF&animate=true" alt="Streak" />
-
-<!-- 3D Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurrizky&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8&custom_title=Flight%20Systems&animate=true" alt="Top Languages" />
-
-</div>
+![3D Logo](https://media.giphy.com/media/your-3d-animation.gif)
 
 ## 🏆 GitHub Trophies
 
